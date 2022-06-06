@@ -23,3 +23,14 @@ First Pavlov State Medical University of St. Petersburg.
 *****
 ## English level:
 A1
+*****
+## Сode example:
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+*****
+## Work experience:
+[Github CV](https://github.com/Danyn7/rsschool-cv)
