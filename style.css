@@ -1,0 +1,104 @@
+@font-face {
+    font-family: Joan;
+     src: url("C:\Users\user\Desktop\rs-school\rsschool-cv\assets\fonts\Joan-Regular.ttf");
+   }
+
+body {
+    font-family: 'Joan';
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  } 
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    
+  }
+
+.ava {
+    border-radius: 50%;
+}
+
+#contacs {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+#aboutme {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+#skills {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+#education {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+#level {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+#code {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+#experience {
+    border: 5px solid #000;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+   
+}
+
+body {
+    background-color: #F0FFFF;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .header {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  
+    
+  .nav {
+      position: fixed;
+      font-style: italic;
+  }
+
+  
