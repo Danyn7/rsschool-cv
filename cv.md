@@ -39,4 +39,6 @@ function even_or_odd(number) {
 
 ```
 
+## Work experience:
+[Github CV](https://github.com/Danyn7/rsschool-cv)
 
